@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guerfi Abderrahim</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height='40' width='40'>, I'm Rahim</h1>
 <h3 align="center">A passionate developer from Tunisia.</h3>
 
 - 🔭 I’m currently working on **Fiverr**
