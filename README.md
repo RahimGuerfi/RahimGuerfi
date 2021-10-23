@@ -1,6 +1,9 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height='40' width='40'>, I'm Rahim</h1>
 <h3 align="center">A passionate developer from Tunisia.</h3>
-- 🔭 I’m currently working on **Fiverr** - 🌱 I’m currently learning **Js Frameworks**
+
+- 🔭 I’m currently working on **Fiverr** 
+- 🌱 I’m currently learning **Js Frameworks**
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
@@ -16,4 +19,6 @@
     <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
 </p>
-> Time is a flat circle. > Everything we've ever done or will do, we're gonna do over and over and over again.
+
+> Time is a flat circle.
+> > Everything we've ever done or will do, we're gonna do over and over and over again.
