@@ -1,6 +1,10 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height='40' width='40'>, I'm Rahim</h1>
 <h3 align="center">A passionate developer from Tunisia.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RahimGuerfi&label=Profile%20views&color=0e75b6&style=flat" alt="RahimGuerfi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RahimGuerfi" alt="RahimGuerfi" /></a> </p>
+
 - 🔭 I’m currently working on **Fiverr** 
 - 🌱 I’m currently learning **Js Frameworks**
 
@@ -18,6 +22,10 @@
     <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
 </p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RahimGuerfi&show_icons=true&locale=en" alt="RahimGuerfi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahimGuerfi" alt="RahimGuerfi" /></p>
 
 > Time is a flat circle.
 > Everything we've ever done or will do, we're gonna do over and over and over again.
