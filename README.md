@@ -26,6 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RahimGuerfi&show_icons=true&locale=en" alt="RahimGuerfi" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahimGuerfi" alt="RahimGuerfi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahimGuerfi&layout=compact" alt="RahimGuerfi" /></p>
 
 > Time is a flat circle.
 > Everything we've ever done or will do, we're gonna do over and over and over again.
