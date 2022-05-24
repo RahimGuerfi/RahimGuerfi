@@ -3,16 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RahimGuerfi&label=Profile%20views&color=0e75b6&style=flat" alt="RahimGuerfi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RahimGuerfi" alt="RahimGuerfi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RahimGuerfi&theme=dracula" alt="RahimGuerfi" /></a> </p>
 
 - 🔭 I’m currently working on **Fiverr** 
 - 🌱 I’m currently learning everything 🤣
 
 ### Connect with me:
 
-[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vibhorchaudhary | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="vibhorchaudhary | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="vibhorchaudhary | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="vibhorchaudhary | GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="vibhorchaudhary | XDA Developers" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 
@@ -36,6 +36,7 @@
 <img align="left" style="margin-bottom: 10px" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <img align="left" style="margin-bottom: 10px" alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 <img align="left" style="margin-bottom: 10px" alt="VS code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<br />
 <br />
 <br />
 <br />
