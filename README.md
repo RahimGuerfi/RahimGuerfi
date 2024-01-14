@@ -12,6 +12,16 @@ I'm currently working on improving my backend skills, my journey involves both b
 - I'm engaged in exciting fullstack projects.
 - I'm exploring different tools and libraries to enhance my skill set.
 
+## 📦 Toolbox
+
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind`
+ 
+**Version Control:** `Git` `Github`
+
+**Backend Development:** `Express.js` `Prisma` `Next-Auth`
+
+**Others:** `Zustand` `tRPC` `Postman` `Scrum` `Zod`
+
 ## ✨ Fun Facts 
 
 - I love 80's music.
