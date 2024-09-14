@@ -8,7 +8,7 @@ I'm a 25-year-old developer based in Tunisia, and I'm passionate about creating 
 
 I'm currently working on improving my backend skills, my journey involves both building and learning. Here's what I'm currently focused on:
 
-- I'm looking for a Frontend developer role in an innovative and dynamic environment.
+- I'm looking for backend, frontend, or fullstack developer roles in an innovative and dynamic environment.
 - I'm engaged in exciting fullstack projects.
 - I'm exploring different tools and libraries to enhance my skill set.
 
