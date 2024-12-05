@@ -1,33 +1,60 @@
 ### Hey, I'm Abderrahim 👋 
 
-I'm a 25-year-old developer based in Tunisia, and I'm passionate about creating engaging and easy to use applications that meet users needs. 
+I'm a **25-year-old software developer** from Tunisia, passionate about designing and building intuitive applications that deliver exceptional user experiences. My mission is to write clean, maintainable, and scalable code while continuously learning and adapting to new challenges.
 
-- Check out my [website](https://rahim-portfolio.vercel.app/) to learn more about me.
+- 🌐 Explore my [portfolio website](https://rahim-portfolio.vercel.app/) for a closer look at my work, projects, and achievements.
 
-## 🔭 Current Endeavors 
+## 🔭 What I'm Working On 
 
-I'm currently working on improving my backend skills, my journey involves both building and learning. Here's what I'm currently focused on:
+I'm dedicated to honing my technical skills and contributing to impactful projects. Here's what keeps me busy:
 
-- I'm looking for backend, frontend, or fullstack developer roles in an innovative and dynamic environment.
-- I'm engaged in exciting fullstack projects.
-- I'm exploring different tools and libraries to enhance my skill set.
+- 🚀 Actively seeking **frontend, backend, or full-stack developer roles** in forward-thinking teams.
+- 💡 Working on **personal projects** that integrate modern technologies and solve real-world problems.
+- 📚 Expanding my knowledge of backend systems and exploring advanced tools like **Docker** and **AWS**.
 
-## 📦 Toolbox
+## 🛠️ My Technical Toolbox 
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind`
- 
-**Version Control:** `Git` `Github`
+**Frontend Development:**  
+`React` `Next.js` `TypeScript` `HTML5` `CSS3` `JavaScript` `Tailwind CSS`
 
-**Backend Development:** `Express.js` `Prisma` `Next-Auth`
+**Backend Development:**  
+`Node.js` `Express.js` `Prisma ORM` `NextAuth` `REST APIs`
 
-**Others:** `Zustand` `tRPC` `Postman` `Scrum` `Zod`
+**State Management & Data Handling:**  
+`Redux` `Zustand` `React Query` `tRPC` `Zod`
 
-## ✨ Fun Facts 
+**Databases:**  
+`PostgreSQL` `MongoDB`
 
-- I love 80's music.
-- I love using Ubuntu after switching from Windows.
+**Testing & Optimization:**  
+`Jest` `Cypress` `Postman`
 
-## 📫 Contact
+**DevOps & Cloud:**  
+`Git` `GitHub` `Docker` *(basic experience)* `AWS` *(familiar)*
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/abderrahim-guerfi/) or [Email](mailto:abderrahim.guerfii@gmail.com). 
- 
+**Development Practices:**  
+- **Agile methodologies:** Scrum-based teamwork.
+- **Code quality:** Clean code, TDD, and pair programming.
+- **Continuous Delivery:** Familiarity with CI/CD pipelines for seamless deployment.
+
+## 🌱 Always Growing 
+
+I pride myself on my adaptability and eagerness to learn new tools and frameworks. Recently, I’ve been diving into:
+
+- **Python:** Exploring FastAPI for backend development.
+- **Microservices Architecture:** Understanding distributed systems and event-driven programming.
+
+## ✨ A Few Fun Facts 
+
+- 🎵 I'm an 80's music enthusiast—it fuels my creative energy!
+- 🖥️ I’m an Ubuntu convert and enjoy its developer-friendly environment.
+- 🏋️ I stay active by going to the gym—it keeps my mind sharp for coding.
+
+## 📫 Let's Connect!  
+
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/abderrahim-guerfi/).  
+- 📧 Shoot me an [email](mailto:abderrahim.guerfii@gmail.com) for job opportunities or collaborations.  
+
+---
+
+I’m always excited to collaborate on meaningful projects or discuss innovative ideas. Feel free to explore my projects and reach out!
