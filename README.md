@@ -1,6 +1,6 @@
 ### Hey, I'm Abderrahim 👋 
 
-I'm a **25-year-old software developer** from Tunisia, passionate about designing and building intuitive applications that deliver exceptional user experiences. My mission is to write clean, maintainable, and scalable code while continuously learning and adapting to new challenges.
+I'm a **26 year old software developer** from Tunisia, passionate about designing and building intuitive applications that deliver exceptional user experiences. My mission is to write clean, maintainable, and scalable code while continuously learning and adapting to new challenges.
 
 - 🌐 Explore my [portfolio website](https://rahim-portfolio.vercel.app/) for a closer look at my work, projects, and achievements.
 
